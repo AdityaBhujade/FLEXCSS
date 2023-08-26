@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.motivation{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    color: whitesmoke;
+    text-align: center;
+    font-family : 'Bricolage Grotesque', sans-serif;
+    font-family : 'Dancing Script', cursive;
+    font-family : 'Roboto Slab', serif;
+    
+}
+
+.dragon-img{
+    border: 5px solid white;
+    width: 100%;
+    padding: 2px;
+}
+h1{
+    font-size: xx-large;
+}
